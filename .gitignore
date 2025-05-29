@@ -28,9 +28,6 @@ venv/
 .env.local
 .env.production
 
-# Documentation and README files (not needed in container)
-*.md
-docs/
 
 # OS generated files
 .DS_Store
