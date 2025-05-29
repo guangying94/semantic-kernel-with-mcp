@@ -1,0 +1,5 @@
+semantic-kernel
+python-dotenv
+openai
+mcp
+chainlit>=2.5.0
